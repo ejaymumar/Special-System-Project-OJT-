@@ -11,10 +11,12 @@ DOCUMENTATION FOR CHANGES:
 11/15/2017
 	-managing the layout for datatables
 	- Same
+11/30/2017
+	- worked on user authentication
+	- made form validations on the forms
 
-
-
-
+12/01/2017
+	- managed to create a way to add image file to the database using AJAX
 
 
 
